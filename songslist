@@ -1,26 +1,14 @@
 [
   {
-    "A": "Above All Power"
+    "A": "Above All Power",
+    
   },
   {
-    "A": "Awesome God"
+    "B": "Above All Power",
+    
   },
   {
-    "A": "Above All Power"
-  },
-  {
-    "A": "Awesome God"
-  },
-  {
-    "A": "Above All Power"
-  },
-  {
-    "A": "Awesome God"
-  },
-  {
-    "A": "Above All Power"
-  },
-  {
-    "A": "Awesome God"
+    "C": "Above All Power",
+    
   }
 ]
